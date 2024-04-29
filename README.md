@@ -6,8 +6,8 @@ Detect objects in an image using FasterRCNN
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/siddhijagtap7/Image_to_Audio.git
-cd Image_to_Audio
+git clone https://github.com/siddhijagtap7/object_detection.git
+cd object_detection
 ```
 
 ### Install dependencies:
